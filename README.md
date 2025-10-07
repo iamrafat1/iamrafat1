@@ -19,7 +19,7 @@ Python / Power BI / SQL / Excel / Tableau / Data Visualization / Business Analyt
 ---
 
 ### 📫 How to reach me
-📧 **istaque.mahmud@outlook.com**  
+📧 **istiaquemahmud22@gmail.com**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/rafat1/)  
 💻 [**GitHub**](https://github.com/iamrafat1)  
 🌐 [**Website**](https://www.istiaquemahmud.com)  
