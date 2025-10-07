@@ -9,7 +9,7 @@ Skills: Python / Power BI / SQL / Excel / Tableau / Data Visualization / Busines
 - 👯 I’m looking to collaborate on Data analytics projects, sustainability research, Power BI dashboards, and innovative tech entrepreneurship ideas. 
 - 🤔 I’m looking for help with Expanding ReBin Tech’s data integration and sustainability partnerships across the U.S. 
 - 💬 Ask me about Business analytics, data visualization, sustainability analytics, or career building as an international graduate in the U.S. 
-- 📫 How to reach me: 📫 **How to reach me:**  📧 **istaque.mahmud@outlook.com**  🔗 [**LinkedIn**](https://www.linkedin.com/in/istiaquemahmud) | [**GitHub**](https://github.com/iamrafat1) | [**ReBin Tech**](https://rebintech.com) 
+- 📫 How to reach me: 📫 **How to reach me:**  📧 **istaque.mahmud@outlook.com**  🔗 [**LinkedIn**](https://www.linkedin.com/in/istiaquemahmud)   💻 [**GitHub**](https://github.com/iamrafat1)   🌐 [**Website**](https://rebintech.com)   🎓 [**Google Scholar**](https://scholar.google.com/citations?user=R1zOQpsAAAAJ)   📘 [**Facebook**](https://www.facebook.com/djraf)   📸 [**Instagram**](https://www.instagram.com/djrafat) 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: was a DJ before becoming a data analyst — now I mix data beats instead of music 🎶📊 
 
